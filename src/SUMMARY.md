@@ -23,7 +23,7 @@
   - [Data usage]()
 
 - [For users]()
-  - [Your emojis]()
+  - [Your emojis](users/your_emojis.md)
     - [Aliases]()
     - [Packs]()
   - [What to do with emojis]()
