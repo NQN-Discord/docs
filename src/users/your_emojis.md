@@ -15,11 +15,11 @@ The first source of emojis are the Common Server Emojis.
 These are the emojis that have been directly uploaded onto discord servers where both you and the bot are.
 This emulates the behaviour of nitro closely as we can see in the following example:
 
-Imagine an emoji named `:nqn-nqn:` has been uploaded to server A.
+> An emoji named `:nqn:` has been uploaded to server A.
 Both you and the bot are in this server.
-This allows you to use the emojis of Server A on all the servers you share with the bot.
+This allows you to use the emojis of server A on all the servers you share with the bot.
 
-You can see all the servers you share with the bot through the command `!mutuals`
+You can see all the emotes you can use through the command `/my_emotes`
 
 ## Server Cached Emojis
 
