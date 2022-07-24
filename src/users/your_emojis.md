@@ -23,4 +23,12 @@ You can see all the emotes you can use through the command `/my_emotes`
 
 ## Server Cached Emojis
 
-TODO
+The second source of emojis are the Server Cached Emojis. 
+The bot caches emojis in different situations in order to allow users access to them. 
+
+The cached emojis are as follows:
+
+- Recently used emojis in the server
+- Recently shown packs in the server
+
+They can only be used in the same server for 24 hours after the previous use.
