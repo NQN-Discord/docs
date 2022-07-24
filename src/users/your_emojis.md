@@ -23,7 +23,7 @@ You can see all the emotes you can use through the command `/my_emotes`
 
 ## Server Cached Emojis
 
-The second source of emojis are the Server Cached Emojis. 
+The second source of emojis are Server Cached Emojis. 
 The bot caches emojis in different situations in order to allow users access to them. 
 
 The cached emojis are as follows:
