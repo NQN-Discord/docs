@@ -9,7 +9,7 @@
   - [Permissions]()
     - [Debugging]()
   - [Adding emojis]()
-    - [The upload_emote command]()
+    - [The 'emote upload' command]()
     - [Through packs and aliases]()
     - [Using animated emojis through the Discord Client]()
   - [Moderation]()
