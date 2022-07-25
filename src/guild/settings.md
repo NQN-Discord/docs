@@ -1,5 +1,7 @@
 # Basic configuration
 
+# TODO - Audit channel, Nitro role etc
+
 When initially invited to a server, all features except for [personas](personas.md) are enabled. 
 
 The following features may be enabled, or disabled with the `/server settings` command. 
@@ -22,7 +24,8 @@ If a user is missing 'Use External Emojis' permissions, they are limited to emoj
 ### Replies
 
 NQN allows you to visualise messages sent in other channels, similarly to Discord's own reply feature. 
-The main advantage this has is it allows moderators to discuss specific posts in a moderator only context, or to keep a highlights channel of images.
+The main advantage this has is it allows moderators to discuss specific posts in a moderator only context.
+You could also use it to create a highlights channel, or extend the pins list in another channel.
 
 A user can only post replies from channels they can read, and messages sent in NSFW channels will not be previewed in replies. A message link will be given, however. 
 
