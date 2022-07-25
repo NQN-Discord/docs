@@ -7,7 +7,7 @@
   - [Inviting NQN](guild/inviting.md)
   - [Basic configuration](guild/settings.md)
   - [Permissions]()
-    - [Debugging]()
+    - [Debugging permissions](guild/debugging_permissions.md)
   - [Adding emojis]()
     - [The 'emote upload' command]()
     - [Through packs and aliases]()
