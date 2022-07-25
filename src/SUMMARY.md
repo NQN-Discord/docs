@@ -24,7 +24,7 @@
 
 - [For users]()
   - [Your emojis](users/your_emojis.md)
-    - [Aliases]()
+    - [Aliases](users/aliases.md)
     - [Packs]()
   - [What to do with emojis]()
     - [Reposting]()
