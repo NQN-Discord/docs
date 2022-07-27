@@ -22,7 +22,7 @@
   - [Server statistics]()
   - [Personas]()
   - [The Nitro role](guild/nitro_role.md)
-  - [Data usage]()
+  - [Data usage](guild/data_usage.md)
 
 - [For users]()
   - [Your emojis](users/your_emojis.md)
