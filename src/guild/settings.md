@@ -1,5 +1,7 @@
 # Basic configuration
 
+# TODO - Audit channel, Nitro role etc
+
 When initially invited to a server, all features except for [personas](personas.md) are enabled. 
 
 The following features may be enabled, or disabled with the `/server settings` command. 
@@ -23,10 +25,11 @@ If a user is missing 'Use External Emojis' permissions, they are limited to emoj
 
 NQN allows you to visualise messages sent in other channels, similarly to Discord's own reply feature. 
 The main advantage this has is it allows moderators to discuss specific posts in a moderator only context.
+You could also use it to create a highlights channel, or extend the pins list in another channel.
 
 A user can only post replies from channels they can read, and messages sent in NSFW channels will not be previewed in replies. A message link will be given, however. 
 
-See the [user guide on masked URLs](../users/replies.md).
+See the [user guide on replies](../users/replies.md).
 
 ### Masked URLs
 
@@ -50,7 +53,7 @@ On the flip side, if the message did ping everyone, so will NQN's message.
 NQN allows users to send emojis from anywhere, not just from your server. 
 If you need to allow users permissions to use 'External Emojis' but want a curated experience for users without Nitro, disabling this option forces users to use emojis from your server, your server packs, or server aliases.
 
-*This is a premium feature. Get access with my [Patreon](https://patreon.com/NQN/membership).*
+*This is a premium feature. Get access with [NQN's Patreon](https://patreon.com/NQN/membership).*
 
 ### Personas
 
@@ -63,7 +66,7 @@ For more information on how to moderate messages sent using the personas feature
 
 This feature controls if users can post messages through [NQN's dashboard](https://nqn.blue/guilds) and slash commands.
 
-NQN respects slowmode set in a channel, and disallows reposting from slash commands and the dashboard if one is set.
+NQN respects slowmode set in a channel, and disallows reposting using slash commands and the dashboard if one is set.
 
 ### Phish Detection
 
