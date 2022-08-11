@@ -22,7 +22,7 @@
     - [Blocking emojis](guild/moderation/blocking_emojis.md)
     - [Locking emojis behind a role]()
     - [Curating emojis](guild/moderation/user_content.md)
-  - [Server statistics]()
+  - [Emoji statistics](guild/stats.md)
   - [Personas]()
   - [The Nitro role](guild/nitro_role.md)
   - [Data usage](guild/data_usage.md)
