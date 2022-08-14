@@ -7,12 +7,31 @@ Whilst my [Privacy Policy](https://nqn.blue/privacy) has a good explanation of w
 
 ### Information about your server
 
+NQN stores the following information about your server.
+It's removed when you kick the bot or delete your server.
+
+- Server name
+- All roles
+- All channels, and channel overrides (even ones NQN doesn't have read message access to)
+- All emojis
+- The user ids of people in your server
+- The bot's member information, such as it's nickname and roles
+- Any pack information, such as your pack's name and list of pack members
+- If your server's entitled to premium features
+- Server settings you set on the bot
+
 NQN stores information about your server in order to ensure when you run commands, that the bot knows it's own permissions as well as the invoker's own permissions.
 This information is always kept up to date, or deleted when you either delete your server or kick the bot. 
 
+The following information is stored for a period of up to 48 hours:
+
+- Any emoji used in your server, including name, URL, and time of use
+
+This information is used to power the 'recently used emojis' feature. 
+
 ### Information about reposted messages
 
-For the 60 days after a message has been posted, NQN stores the following information about messages:
+For a 60 day period after a message has been reposted by NQN, the following information is stored:
 
 - Who sent it
 - Which channel it was sent to, and in which server
@@ -37,7 +56,7 @@ This is to allow NQN to have a wide variety of emojis available, as well as to u
 
 ### Information about users
 
-We store a user's personal configuration with the bot including their aliases, mutual servers, and voting information. 
+We store a user's personal configuration with the bot including their aliases, mutual servers, commands run, and voting information. 
 
 This data is used to power the bot, and make sure it works correctly. 
 
@@ -50,11 +69,11 @@ This data is anonymous, and is removed after 30 days.
 
 ## Third Parties
 
-On the website, NQN uses Google Analytics to see how many people use the bot's website and determine how good it is at convincing people to add the bot. 
+**On the website**, NQN uses Google Analytics to see how many people use the bot's website and determine how good it is at convincing people to add the bot. 
 We also used to run adverts, but this has been discontinued for now. 
 None of this data is related to your Discord account, or your usage of the bot.
 
-On the Discord side of things, NQN doesn't share any Discord data with third parties.
+**On the Discord side of things**, NQN doesn't share any Discord data with third parties.
 It's all stored on our host. 
 
 ## Requesting your data
