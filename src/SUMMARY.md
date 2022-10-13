@@ -30,7 +30,7 @@
 - [For users]()
   - [Your emojis](users/your_emojis.md)
     - [Aliases](users/aliases.md)
-    - [Packs]()
+    - [Packs](users/packs.md)
   - [What to do with emojis]()
     - [Reposting]()
       - [Replies]()
