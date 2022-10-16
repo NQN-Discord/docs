@@ -1,6 +1,7 @@
 # Personas
 
 NQN can allow users to repost messages with custom usernames and avatars. 
+Given the potential for abuse, this feature is disabled by default. 
 
 To help moderation when this feature is enabled, NQN has an audit channel setting, which posts the original author whenever a message is posted via the bot. 
 
