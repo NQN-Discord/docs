@@ -6,7 +6,7 @@ For more information regarding how to name server wide aliases refer to [adding 
 
 You can find the full list of aliases you have through the use of the command `/alias mine` or `/alias dm` (full list but sent to dm)
 
-You can search for emojis using the following command `/alias search termsOfYourSearch`. 
+You can search for emojis using the following command `/alias search termsOfYourSearch search: terms`. 
 The search functionality also supports the following filters:
 - `exact`: Shows only the emojis with names that exactly match your search terms.
 - `animated`: If set to `True` only show animated emojis. If `False` only static ones. If empty then show all emojis.
