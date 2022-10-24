@@ -16,7 +16,7 @@
     
   - [Using animated emojis with the emoji picker](server_link.md)
   - [Moderation]()
-    - [Auditing messages]()
+    - [Auditing messages](guild/moderation/auditing.md)
     - [Moving messages between channels]()
     - [Purging messages]()
     - [Blocking emojis](guild/moderation/blocking_emojis.md)
