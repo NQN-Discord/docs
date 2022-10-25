@@ -15,6 +15,7 @@
     - [From packs](guild/emote_upload/packs.md)
   - [Emote access](guild/emote_access/access.md)
     - [Server packs](guild/emote_upload/packs.md)
+
     
   - [Using animated emojis with the emoji picker](server_link.md)
   - [Moderation]()
@@ -24,6 +25,7 @@
     - [Blocking emojis](guild/moderation/blocking_emojis.md)
     - [Locking emojis behind a role]()
     - [Curating emojis](guild/moderation/user_content.md)
+  - [Pack Creation](guild/pack_creation.md)
   - [Emoji statistics](guild/stats.md)
   - [Personas]()
   - [The Nitro role](guild/nitro_role.md)
