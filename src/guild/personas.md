@@ -3,8 +3,14 @@
 NQN can allow users to repost messages with custom usernames and avatars. 
 Given the potential for abuse, this feature is disabled by default. 
 
-To help moderation when this feature is enabled, NQN has an audit channel setting, which posts the original author whenever a message is posted via the bot. 
+A server moderator might wish to use this tool to post as their 'server' by creating a persona for it, and setting the username and avatar to that of the server's.
 
-To enable the audit channel, run `/server audit_channel` command, and select the channel you want NQN to post audit message in. 
+### Moderating Personas:
 
-If you want to see the author of a specific message, you can right click it, go to 'Apps', and then 'Find Author'.
+Since this usage can be used to impersonate others, we recommend having a look at the following links before enabling this feature:
+
+
+- [Auditing messages](moderation/auditing.md)
+- [Guild settings](settings.md)
+
+Using the tools NQN provides, you will be easily able to see who posts messages, and perform moderation actions.
