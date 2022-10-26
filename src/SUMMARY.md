@@ -27,7 +27,7 @@
     - [Curating emojis](guild/moderation/user_content.md)
   - [Pack Creation](guild/pack_creation.md)
   - [Emoji statistics](guild/stats.md)
-  - [Personas]()
+  - [Personas](guild/personas.md)
   - [The Nitro role](guild/nitro_role.md)
   - [Data usage](guild/data_usage.md)
 
