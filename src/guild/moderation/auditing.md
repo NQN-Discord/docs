@@ -7,4 +7,5 @@ This can be achieved by right-clicking on the message, going to 'Apps', and then
 To quickly kick or ban the user who posted a message with NQN, you can use Discord's reply feature with the message `!mod kick` or `!mod ban`.
 If you need to remove all the messages posted with NQN, the `!mod purge` command allows this, optionally allowing you to filter by the target user.
 
-To see the messages a user has posted with NQN, right-click on their profile, go to 'Apps' and then 'Audit NQN Messages'.
+To see the messages a user has posted with NQN, right-click on their profile (or on mobile hold their avatar), go to 'Apps' and then 'Audit NQN Messages'.
+A text-based command alternative is available by using Discord's reply feature to select the message, and then running `!whois`.
