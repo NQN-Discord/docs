@@ -1,8 +1,31 @@
 # Basic configuration
 
-# TODO - Audit channel, Nitro role etc
+# TODO - Nitro role etc
 
 When initially invited to a server, all features except for [personas](personas.md) are enabled. 
+No features which require channel or role selection are enabled. 
+
+### The Audit Channel
+
+
+When people repost messages with NQN, moderators might wish to be notified of exactly who sent the message, as well as jump links to the reposted messages. 
+
+NQN can audit, but is not limited to the following features:
+
+- Message reposts
+- Message reposts with persona usage
+- Usage of the `!edit` or `Edit Message` commands
+- A user posting a messages with an emoji which has been blocked with `/emote block`
+- Reactions added to messages with the `/react` command
+- Users joining the server when the opt-in 'public packs' feature is enabled.
+- A moderator blocking, or unblocking usage of an emoji
+- A moderator locking, or unlocking an emoji to a role
+- A moderator banning or kicking a user with `!mod kick` or `!mod ban`
+- A moderator editing the channel topic with `/mod edit_topic`
+- A moderator moving messages between channels with `/mod move`
+- A moderator deleting messages with `!mod purge`
+
+## Toggleable Features
 
 The following features may be enabled, or disabled with the `/server settings` command. 
 Use it to bring up a list of the current configuration, and toggle features with the in-message dropdown.
@@ -21,13 +44,14 @@ See the [user guide for how to use stickers](../users/stickers.md).
 The main feature, which allows anyone to use emojis without Nitro.
 If a user is missing 'Use External Emojis' permissions, they are limited to emojis inside your server only, and cannot use server aliases or packs.
 
-### Replies
+### Message Previews
 
 NQN allows you to visualise messages sent in other channels, similarly to Discord's own reply feature. 
 The main advantage this has is it allows moderators to discuss specific posts in a moderator only context.
 You could also use it to create a highlights channel, or extend the pins list in another channel.
 
-A user can only post replies from channels they can read, and messages sent in NSFW channels will not be previewed in replies. A message link will be given, however. 
+A user can only post message previews from channels they can read, and messages sent in NSFW channels will not be previewed in replies in channels which are not NSFW.
+A message link will be given, however. 
 
 See the [user guide on replies](../users/replies.md).
 
