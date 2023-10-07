@@ -3,7 +3,7 @@
 [Overview](./overview.md)
 
 
-- [For server administrators]()
+- [For server administrators](guild/overview.md)
   - [Inviting NQN](guild/inviting.md)
   - [Basic configuration](guild/settings.md)
   - [Permissions](guild/permissions.md)
